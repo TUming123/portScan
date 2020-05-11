@@ -1,2 +1,1 @@
-# portScan
-Using TCP-ALL  FIN UDP SYN to scan target's ports. Thanks JPCAP
+#Any questions, any recitation, email me at mingming888888888@163.com
